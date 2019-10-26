@@ -80,7 +80,7 @@ Sebelumnya kalian harus "MEMBUAT AKUN GITHUB" dan "MENGINSTAL SOFTWARE GIT"
 24. Untuk mengirim perubahan local repository ke server gunakan perintah git push "git push -u origin master" 
 ![35](https://user-images.githubusercontent.com/56987138/67620763-7b2c4f00-f834-11e9-9e90-02564e8f962b.png)
 
-25. Dan untuk melihat hasilnya cek di github dan lihat reepositorinya.
+25. Dan untuk melihat hasilnya cek di github dan lihat repositorinya.
 ![36](https://user-images.githubusercontent.com/56987138/67620762-7b2c4f00-f834-11e9-898e-39d2e395cd8a.png)
 
 26. Jika ingin melakukan clone repository gunakan perintah "git clone [ url ]" CONTOH "git clone https://github.com/lailiseptiamalia11/Latihan-Python.git" 
